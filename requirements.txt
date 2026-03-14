@@ -1,0 +1,4 @@
+pyimgui==2.0.0
+glfw==2.6.2
+wootility-sdk  # Zkontroluj dostupnost na PyPI nebo příslušnou dokumentaci pro instalaci
+tosuapp-sdk    # Zkontroluj dostupnost na PyPI nebo příslušnou dokumentaci pro instalaci
